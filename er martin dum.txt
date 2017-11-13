@@ -4,6 +4,7 @@ Fuck you
 #Kage
 
 
+<<<<<<< HEAD
 
 
 
@@ -32,3 +33,6 @@ Fuck you
 
 
 martin er en fed pik der ikke kan finde ud af bare at gøre de ting han skal istedet for at gøre alting fucking besværligt
+=======
+virker det???
+>>>>>>> 16203b526c631956b677f2a1764c468c5a442298
