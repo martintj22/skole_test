@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.7.4
 -- https://www.phpmyadmin.net/
---
+-- trest
 -- Vært: 127.0.0.1
 -- Genereringstid: 09. 11 2017 kl. 10:55:06
 -- Serverversion: 10.1.26-MariaDB
